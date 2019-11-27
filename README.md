@@ -45,3 +45,17 @@ c. Cust memberikan informasi pengiriman barang ke sales
 d. Cust memberikan form rincian biaya ke sales
 e. Cust menerima faktur pembelian barang
 ```
+
+## CARA CONFIGURASI GITHUB
+```
+1. Install Git bash
+2. Buat directory lokal
+3. Klik kanan pada directory lokal pilih Git bash here
+4. Ketik "Git init" pada command promp github
+5. Lalu ketik "git remote add origin https://github.com/renkomalau/rpl_orderbarang.git"
+6. Lalu ketik "git pull" untuk sikron directory lokal dengan repository online
+7. ketik "git commit -m "komentar" " untuk membuat inisialisasi
+8. ketik " git pull -u origin master" untuk mengupload file ke repository online
+9. selesai
+````
+	
