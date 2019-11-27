@@ -54,8 +54,9 @@ e. Cust menerima faktur pembelian barang
 4. Ketik "Git init" pada command promp github
 5. Lalu ketik "git remote add origin https://github.com/renkomalau/rpl_orderbarang.git"
 6. Lalu ketik "git pull" untuk sikron directory lokal dengan repository online
-7. ketik "git commit -m "komentar" " untuk membuat inisialisasi
-8. ketik " git pull -u origin master" untuk mengupload file ke repository online
-9. selesai
+7. Ketik "git add ." untuk menambahkan file yg akan diupload kegithub
+8. ketik "git commit -m "komentar" " untuk membuat inisialisasi pada file yang upload
+9. ketik " git pull -u origin master" untuk mengupload file ke repository online
+10. selesai
 ````
 	
